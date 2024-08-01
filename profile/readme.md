@@ -1,6 +1,6 @@
-<div style="max-width: 285px; margin: auto;">
+<div align="center" style="max-width: 285px; margin: auto;">
   <picture>
-    <!-- <source media="(prefers-color-scheme: dark)" srcset="TODO: need dark logo"> -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/aws-lite/aws-lite.org/raw/main/public/img/aws-lite_white.svg">
     <img alt="aws-lite logo" src="https://github.com/aws-lite/aws-lite.org/raw/main/public/img/aws-lite.svg">
   </picture>
 </div>
